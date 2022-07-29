@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Quint2597
+- 👋 Hi, I’m Quint!
 - 👀 I’m interested in graphics programming and Lua!
 - 🌱 I’m currently learning Lua!
 - 💞️ I’m looking to collaborate on nothing (at the moment)
