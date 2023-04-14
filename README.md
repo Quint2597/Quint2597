@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Quint!
 - 👀 I’m interested in graphics programming and Lua!
-- 🌱 I’m currently learning Lua!
+- 🌱 I’m currently learning Julia!
 - 💞️ I’m looking to collaborate on nothing (at the moment)
 - 📫 Reach me at quint2597@gmail.com or on Discord @Quint#2597
 
