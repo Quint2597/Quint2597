@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Quint!
-- 👀 I’m interested in graphics programming and linear algebra!
+- 👀 I’m interested in graphics programming and linear algebra/machine learning!
 - 🌱 I’m learning Zig, though I'm happy with Julia!
 - 💞️ I’m looking to learn more before collaborating on anything
 - 📫 Reach me at quint.wittman@gmail.com or on Discord @aeksia.xyz
