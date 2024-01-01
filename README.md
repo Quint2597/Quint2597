@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Quint!
-- 👀 I’m interested in graphics programming and Lua!
-- 🌱 I’m currently learning Julia!
-- 💞️ I’m looking to collaborate on nothing (at the moment)
-- 📫 Reach me at quint2597@gmail.com or on Discord @Quint#2597
+- 👀 I’m interested in graphics programming and linear algebra!
+- 🌱 I’m learning Zig, though I'm happy with Julia!
+- 💞️ I’m looking to learn more before collaborating on anything
+- 📫 Reach me at quint.wittman@gmail.com or on Discord @aeksia.xyz
 
 <!---
 Quint2597/Quint2597 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
