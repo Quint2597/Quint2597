@@ -10,7 +10,7 @@ I've always been fascinated by parallel compute and algorithms that take advanta
 
 I've long been obsessed with the 'why' of things, and am always seeking to learn more about the mechanisms behind things we take for granted. C is my language of choice for almost all my projects, though I am sparsely familiar with (among other languages) Lua, Julia, Rust, & Zig.
 
-I'd say my knowledge of C as a language is quite good, but I admittedly begin to fall apart using things outside the C standard libraries, ie. I'm not a good network programmer as `<sys/socket.h>` is not something I've played around with. I am decent with `make` as well as some other common unix utilities, and have both a MacOS and a Linux (Ubuntu) system at home. I'm also admittedly a bit cautious about some of the more adventurous uses of the C preprocessor.
+I'd say my knowledge of C as a language is quite good, but I admittedly begin am not intimately familiar with all the libraries available to me, ie. I'm not a good network programmer as `<sys/socket.h>` is not something I've played around with. I am decent with `make` as well as some other common unix utilities, and have both a MacOS and a Linux (Ubuntu) system at home. 
 
 # 💞️ I’m looking to learn more!
 
