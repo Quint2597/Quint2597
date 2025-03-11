@@ -1,16 +1,16 @@
 # 👋 Hi, I’m Quint!
 
-Trans woman (it/she), 18, C programmer.
+Trans woman (it/she), 19, systems programmer.
   
 # 👀 I’m interested in graphics and systems programming.
 
 I've always been fascinated by parallel compute and algorithms that take advantage of it, but my main area of interest is programming language design and implementation, more specifically the backends of interpretation and compilation.
 
-# 🌱 I’m happy with C, though I'm always looking to learn more and more lower level things.
+# 🌱 I'm always looking to learn more and more lower level things.
 
-I've long been obsessed with the 'why' of things, and am always seeking to learn more about the mechanisms behind things we take for granted. C is my language of choice for almost all my projects, though I am sparsely familiar with (among other languages) Lua, Julia, Rust, & Zig.
+I've long been obsessed with the 'why' of things, and am always seeking to learn more about the mechanisms behind things we take for granted. C and Golang are my languages of choice for almost all my projects, though I am sparsely familiar with (among other languages) Lua & Rust. 
 
-I'd say my knowledge of C as a language is quite good, but I admittedly begin am not intimately familiar with all the libraries available to me, ie. I'm not a good network programmer as `<sys/socket.h>` is not something I've played around with. I am decent with `make` as well as some other common unix utilities, and have both a MacOS and a Linux (Ubuntu) system at home. 
+I'd say my knowledge of C as a language is quite good, but I'm still learning some of the common stdlib and POSIX libraries. I have both a MacOS and a Linux (Arch) system at home. 
 
 # 💞️ I’m looking to learn more!
 
