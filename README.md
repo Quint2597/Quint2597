@@ -14,7 +14,7 @@ I'd say my knowledge of C as a language is quite good, but I'm still learning so
 
 # 💞️ I’m looking to learn more!
 
-I'm always looking for more to learn and do! I'm not against collaborating with other people (contact below), and I do tend to learn quite quickly, but in the interest of transparency, I'm only really intermediate.
+I'm always looking for more to learn and do! I'm always looking to collaborate with other people (contact below).
   
 # 📫 Reach me at quint.wittman@gmail.com
   
